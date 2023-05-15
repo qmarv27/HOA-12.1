@@ -1,0 +1,5 @@
+CONTAINER ID   IMAGE          COMMAND       CREATED         STATUS                           PORTS                                       NAMES
+a30a1e2b08ac   55930e111991   "python3"     6 minutes ago   Up 6 minutes                     0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
+2183ce45125a   ubuntu         "/bin/bash"   11 days ago     Exited (255) About an hour ago                                               cool_leakey
+0bccb2a07c4a   hello-world    "/hello"      12 days ago     Exited (0) 12 days ago                                                       distracted_kilby
+8e5f2c165885   hello-world    "/hello"      12 days ago     Exited (0) 12 days ago                                                       adoring_pare
